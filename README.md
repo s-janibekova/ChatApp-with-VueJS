@@ -1,8 +1,11 @@
-# ninja-chat
+# Just a chat
 
 > A Vue.js project
 
 ## Build Setup
+
+here is demo  https://chat-app-3ba0e.web.app/
+put your own firebase config ! 
 
 ``` bash
 # install dependencies
